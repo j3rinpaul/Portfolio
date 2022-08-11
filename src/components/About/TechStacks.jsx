@@ -13,6 +13,7 @@ import {
   SiNodedotjs,
   SiFlutter,
   SiC,
+  SiDart,
 } from "react-icons/si";
 
 function TechStacks() {
@@ -37,7 +38,7 @@ function TechStacks() {
         <SiNodedotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <SiDart />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />

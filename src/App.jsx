@@ -6,6 +6,7 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
+import Certficate from "./components/Certificates/Certificate"
 import {
   BrowserRouter as Router,
   Route,
@@ -37,6 +38,7 @@ function App() {
           <Route path="/" exact element={<Home />} />
           <Route path="/project" exact element={<Projects />} />
           <Route path="/about" exact element={<About />} />
+          <Route path="/certificate" exact element={<Certficate/>} />
           <Route path="/resume" exact element={<Resume />} />
           <Route path="*" element={<Home />} />
         </Routes>

@@ -5,7 +5,8 @@ import {
   SiVisualstudiocode,
   SiGithub,
   SiGitlab,
-  SiDiscord
+  SiFirebase,
+  SiGit
 } from "react-icons/si";
 
 function ToolStack() {
@@ -24,7 +25,10 @@ function ToolStack() {
         <SiGitlab />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiDiscord />
+        <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGit/>
       </Col>
     </Row>
   );

@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio Website"
               description="Made Portfolio website using react.js and provided its code and other resources to Open-Source. feel free to clone that template or contribute."
-              link="https://github.com/mrwolfie13/jerry_Portfolio"
+              link="https://github.com/j3rinpaul/j3rin"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="reImg"
               description="Program to change the extension of an Image and also resize the image.  It's made using Python as a part of Co-Coder conducted by TinkerHub Foundation. Pillow is the python library used to make it.  "
-              link="https://github.com/mrwolfie13/reImg"
+              link="https://github.com/j3rinpaul/reImg"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Giffy Search Engine"
               description="Search engine made for searching gifs found on the Internet. Used giffy api and madde using vanilla js as a beginner project "
-              link="https://github.com/mrwolfie13/Gif_Search_Engine"
+              link="https://github.com/j3rinpaul/Gif_Search_Engine"
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="AMD Website"
               description="Responsive Website build for competition purpose in our college. "
-              link="https://github.com/mrwolfie13/technoship"
+              link="https://github.com/j3rinpaul/technoship"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               isBlog={false}
               title="Ser-bot"
               description="Discord bot for handling a server in discord. Can add or remove roles with commands and also send welcome message on new member joining the server."
-              link="https://github.com/mrwolfie13/Ser_bot"
+              link="https://github.com/j3rinpaul/Ser_bot"
             />
           </Col>
 
